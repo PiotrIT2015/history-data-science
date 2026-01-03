@@ -60,4 +60,12 @@ historia-w-danych/
 └── README.md
 ```
 
+## Uruchamianie
+
+```
+pip install -r requirements.txt
+python scripts/scraper.py
+python -m streamlit run app/app.py
+```
+
 ![image alt](https://github.com/PiotrIT2015/history-data-science/blob/master/screenshot.jpg?raw=true)
