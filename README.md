@@ -58,3 +58,6 @@ historia-w-danych/
 ├── visuals/                # Wygenerowane wykresy i dashboardy
 ├── scripts/                # Skrypty do scrapowania/czyszczenia danych
 └── README.md
+```
+
+![image alt](https://github.com/PiotrIT2015/history-data-science/blob/master/screenshot.jpg?raw=true)
